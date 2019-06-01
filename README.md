@@ -1,4 +1,4 @@
-# FullThrottle Labs Assignment
+# EMI Loan Calculator
 ### by Sridhar
 
 EMI loan Calculator App was built on following Frameworks:
